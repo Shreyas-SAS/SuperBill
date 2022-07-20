@@ -1,0 +1,2 @@
+# SuperBill
+SuperBill is a personal project Idea of a SuperMarket Management system with many built in functionalities like Product Info storage, Storage Location feed, Warehouse/Godown Maping system, Automatic Stock refillment listing based on ML model predictions via API, QR code based billing system, automatic daily revenue calculation, Net Profit calculations, GST statistics management on a periodic basis that can be statically changed via admin previllidges..
