@@ -10,29 +10,31 @@ Phases of Delivery can be seen below:
 Current Version: **Version 1**
 
 Version 1:
-1. QR Generator
-2. QR Scanner
-3. Frontend UI
-4. Manual Product Data Fillup form
-5. Database Entry (MongoDB)
+1. Frontend UI
+2. Manual Product Data Fillup form
+3. Database Entry (MongoDB)
+4. Storage system I
+5. Bill Generation
+6. Manual Refil limit
 
 Version 2:
 1. Login Database
-2. Login Authentication (Passport based)
+2. Login Authentication (Passport/auth2 based)
+3. Storage system II
+4. Subscription mechanism
 
 Version 3:
-1. Storage system 
-2. Manual Refil limit
-3. Bill Generation
+1. QR Generator
+2. QR Scanner
 
 Version 4:
-1. ML Based sales preduiction API
-2. ML Based refil prediction
-
-Version 5:
 1. Revenue calculation
 2. Profit Calculation
 3. Automatic GST calculation
+
+Version 5:
+1. ML Based sales preduiction API
+2. ML Based refil prediction
 
 Version 6: (Dependant)
 1. ML based Stock optimisation
