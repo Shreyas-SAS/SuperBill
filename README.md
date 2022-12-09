@@ -20,8 +20,8 @@ Version 1:
 Version 2:
 1. Login Database
 2. Login Authentication (Passport/auth2 based)
-3. Storage system II
-4. Subscription mechanism
+3. Storage system II (On Hold)
+4. Subscription mechanism (On Hold)
 
 Version 3:
 1. QR Generator
